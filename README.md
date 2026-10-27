@@ -1,1 +1,2 @@
-# Keobia-1
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com" Keobia-1
